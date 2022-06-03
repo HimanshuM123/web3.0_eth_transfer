@@ -13,3 +13,10 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+1. npm run dev
+2. Login to metamask
+3. Connect to wallet by clicking 'connect wallet'
+4. copy & paste account2 address in 'Address to' section from metamask
+5. Switch back to account1
+6. click on send now
